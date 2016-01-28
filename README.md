@@ -281,7 +281,7 @@ As per the Google Analytics API, custom metrics and dimensions are 1-based. Each
 
 ## Google Play Services
 
-Version 3.1.3 of the android module uses Google Play Services r23 (7095000).
+Version 3.1.3 of the android module uses Google Play Services Version 6.1 (rev 21 - 6171000).
 
 ## Contributors
 
